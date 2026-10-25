@@ -17,26 +17,6 @@
 
 ---
 
-## 🚀 About
-
-```yaml
-name: BDX-App
-mission: Design, build and ship reliable web & mobile applications
-focus:
-  - Modern, responsive web apps
-  - Cross-platform mobile apps
-  - Scalable APIs & cloud backends
-values: [clean-code, performance, great-UX, open-source]
-status: "Always building something new 🛠️"
-```
-
-- 🔭 Currently working on **new open-source projects** — stay tuned!
-- 🌱 Always learning and exploring new technologies
-- 🤝 Open to **collaboration** and contributions
-- 💬 Ask us about **web, mobile and backend development**
-- ⚡ Fun fact: great software is built one commit at a time
-
----
 
 <div align="center">
 
