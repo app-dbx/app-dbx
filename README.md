@@ -9,7 +9,7 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=bdx-app&label=Profile%20views&color=2c9cf7&style=flat-square" alt="Profile views" />
-  <a href="https://github.com/app-dbx?tab=followers"><img src="https://img.shields.io/github/followers/bdx-app?label=Followers&style=flat-square&color=2c9cf7" alt="Followers" /></a>
+  <a href="https://github.com/app-dbx?tab=followers"><img src="https://img.shields.io/github/followers/app-dbx?label=Followers&style=flat-square&color=2c9cf7" alt="Followers" /></a>
   <a href="https://github.com/app-dbx?tab=repositories"><img src="https://img.shields.io/badge/Repos-Explore-2c9cf7?style=flat-square&logo=github" alt="Repositories" /></a>
 </p>
 
